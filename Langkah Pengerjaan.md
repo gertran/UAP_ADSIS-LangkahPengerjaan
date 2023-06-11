@@ -1,5 +1,5 @@
 **Soal :**
-<img src="Screenshots/soaluap.jpg">
+<img src="soaluap.jpg">
 
 Soal 1
 ------------------------------------------------
